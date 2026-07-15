@@ -283,6 +283,4 @@ serial-mcp/
 - `robot_sendMsg_tool` accepts arbitrary G-code — use with care
 - Test with small moves first to verify direction and coordinates
 
-## License
 
-See the LICENSE file in the repository (if present).
