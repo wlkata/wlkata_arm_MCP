@@ -1,0 +1,12 @@
+[project]
+name = "serial-mcp"
+version = "0.1.0"
+description = "MCP server for Wlkata robot arms over serial (Mirobot/E4/Haro380)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.8.0",
+    "mcp[cli]>=1.9.4",
+    "pyserial>=3.5",
+    "wlkatapython>=0.1.1",
+]
