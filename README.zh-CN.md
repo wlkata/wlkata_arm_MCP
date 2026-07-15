@@ -283,6 +283,4 @@ serial-mcp/
 - `robot_sendMsg_tool` 可发送任意 G 代码，请谨慎使用
 - 测试时建议先小幅度移动，确认方向与坐标正确
 
-## License
 
-见项目仓库中的 LICENSE 文件（如有）。
